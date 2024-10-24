@@ -58,3 +58,19 @@ In this lesson we looked at how to:
 - Fine-tune the styling of Matplotlib charts by using limits, labels, linewidth, and colors (both in the form of named colors and HEX codes).
 - Use `.grid()` to help visually identify seasonality in a time series.
 
+
+# Learning Points & Summary - Day 76
+
+In this lesson we looked at how to:
+
+- Create arrays manually with `np.array()`
+- Generate arrays using `.arange()`, `.random()`, and `.linspace()`
+- Analyze the shape and dimensions of a `ndarray`
+- Slice and subset a `ndarray` based on its indices
+- Perform linear algebra operations with scalars and matrix multiplication
+- Use NumPy's broadcasting to make `ndarray` shapes compatible
+- Manipulate images in the form of `ndarrays`
+
+You can download the completed code for today in this lesson.
+
+Oh, and congratulations on completing one of the most mathematical lessons in the course! Good stuff!
