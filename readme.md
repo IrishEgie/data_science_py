@@ -41,9 +41,6 @@ In this lesson we looked at how to:
 - Use `.merge()` to combine DataFrames along a particular column.
 - Create a bar chart with Matplotlib.
 
-
-
-
 # Learning Points & Summary - Day 75
 
 In this lesson we looked at how to:
@@ -71,6 +68,16 @@ In this lesson we looked at how to:
 - Use NumPy's broadcasting to make `ndarray` shapes compatible
 - Manipulate images in the form of `ndarrays`
 
-You can download the completed code for today in this lesson.
+# Learning Points & Summary - Day 77
 
-Oh, and congratulations on completing one of the most mathematical lessons in the course! Good stuff!
+Today was a pretty packed lesson where we introduced a lot of new concepts. In this lesson we looked at how to:
+
+- Use nested loops to remove unwanted characters from multiple columns.
+- Filter Pandas DataFrames based on multiple conditions using both `.loc[]` and `.query()`.
+- Create bubble charts using the Seaborn Library.
+- Style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters.
+- Use floor division (i.e., integer division) to convert years to decades.
+- Use Seaborn to superimpose linear regressions over our data.
+- Make a judgement if our regression is good or bad based on how well the model fits our data and the r-squared metric.
+- Run regressions with scikit-learn and calculate the coefficients.
+
